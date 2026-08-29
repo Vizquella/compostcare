@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198212150595",
+    "project_id": "compostcare",
+    "storage_bucket": "compostcare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198212150595:android:6edad57ebc1caa919fbbf6",
+        "android_client_info": {
+          "package_name": "com.example.compostcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH00KTC36-1389ayBVM1TOL50m5uCmVLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
